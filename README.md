@@ -4,7 +4,8 @@ This is a responsive website template built using only HTML and CSS. It features
 
 This project is purely front-end and is intended for design purposes only, without any backend functionality.  
 
-You can visit the live demo of the page through this link: [Design Preview](https://abdulghani99i.github.io/kasper-template-design/)
-[Demo on youtube](https://youtu.be/I4gYASkrmI4?feature=shared)
+You can visit the live demo of the page through this link: [Design Preview](https://abdulghani99i.github.io/kasper-template-design/).
+
+Demo on [Youtube](https://youtu.be/I4gYASkrmI4?feature=shared).
 
 Feel free to explore, use, and modify it as needed.
