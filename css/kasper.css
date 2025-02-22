@@ -461,7 +461,7 @@ header .container nav ul li a:hover {
   transition: transform var(--main-duration) ease-in-out;
 }
 .portfolio .boxes .item img:hover{
-  transform: skew(-4deg) scale(1.1);
+  transform: rotate(5deg) scale(1.1);
   transition: transform var(--main-duration) ease-in-out;
 }
 .portfolio .boxes .item:hover .label{
