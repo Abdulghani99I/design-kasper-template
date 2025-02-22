@@ -6,4 +6,4 @@ This project is purely front-end and is intended for design purposes only, witho
 
 You can visit the live demo of the page through this link: [Live Demo](https://abdulghani99i.github.io/kasper-template-design/)  
 
-Feel free to explore, use, and modify it as needed!  
+Feel free to explore, use, and modify it as needed.
